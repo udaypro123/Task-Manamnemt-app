@@ -1,0 +1,114 @@
+.containerheaddiv {
+  text-align: center;
+  margin-top: 2rem;
+  background-color: rgb(232, 131, 0);
+  border-radius: .3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-shadow: 5px 0px 5px white;
+}
+
+.input-group {
+  box-shadow: 0px 2px 2px 1px rgb(33, 27, 27);
+  width: 50%;
+  margin: 3% auto;
+  border-radius: .5rem;
+}
+
+.form-control {
+  border: none;
+  box-shadow: 0px 2px 2px 1px rgb(33, 27, 27);
+transition: none;
+}
+
+#btn {
+  margin-left: 45%;
+}
+
+.elediv {
+  height: 30px;
+  width: 60%;
+  background-color: rgba(50, 136, 54, 0.734);
+  box-shadow: 1px 1px 1px 1px rgb(10, 6, 6);
+  border-radius: .3rem;
+}
+
+.elediv p{
+  font-size: 1.2rem;
+  margin-left: 2rem;
+  text-transform: capitalize;
+  color: white;
+}
+
+.maindiv{
+  height: 50px;
+  width: 50%;
+  margin:1rem auto;
+  background-color: rgba(43, 106, 6, 0.861);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: .2rem;
+}
+.editdiv{
+  height: 30px;
+  width: 10%;
+  background-color: rgba(141, 236, 236, 0.597);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: .1rem;
+  box-shadow: 0px 0px 2px 2px rgb(255, 255, 255);
+}
+.editdiv img{
+  height: 60%;
+  width: 40%;
+}
+.deletediv{
+  height: 35px;
+  width: 7%;
+  background-color: rgba(0, 0, 0, 0.988);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 50%;
+  box-shadow: 0px 0px 1px 1px rgb(246, 0, 0);
+}
+.deletediv img{
+  height: 60%;
+  width: 60%;
+}
+
+.chechbox{
+  height: 30px;
+  width: 10%;
+  background-color: rgba(30, 32, 32, 0.597);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(45, 45, 45);
+  border-radius: .1rem;
+  box-shadow: 0px 0px 2px 2px rgb(95, 95, 95);
+}
+.chechbox input{
+ height: 18px;
+ width: 18px;
+}
+.completediv{
+  height: 30px;
+  width: 60%;
+  background-color: rgba(0, 22, 79, 0.963);
+  box-shadow: 1px 1px 1px 1px rgb(10, 6, 6);
+  border-radius: .3rem;
+  color: white;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.completediv img{
+  height: 25px;
+  width: 25px;
+  margin-left: .5rem;
+}
